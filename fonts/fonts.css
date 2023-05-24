@@ -1,0 +1,14 @@
+@font-face {
+	font-family: 'Cormorant';
+	src: url('./Cormorant.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Cormorant-700';
+	src: url('./Cormorant-700.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'KoPubWorldBatang';
+	font-weight: 300;
+	font-style: normal;
+	src: url('./KoPubBatang-Regular.ttf') format('truetype');
+}
